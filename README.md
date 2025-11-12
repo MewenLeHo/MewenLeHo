@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Mewen Le Hô
+# Hi there, I'm Mewen Le Hô
 
 💻 I'm an accessibility specialist and web developer  
 🌍 Passionate about inclusive design and digital accessibility  
