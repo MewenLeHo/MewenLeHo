@@ -16,7 +16,6 @@ HTML · CSS · JavaScript · Astro · WCAG · RGAA
   - 🇫🇷 [Version FR](https://a11y-guidelines.orange.com/fr/articles/media-queries-preferences-utilisateurs/)  
 
 ## 🧪 Bookmarklets
-
 - [detectAutocomplete](https://github.com/MewenLeHo/detectAutocomplete)
 - [CSS or Die](https://github.com/MewenLeHo/css-or-die)
 - [Prefers Scan](https://github.com/MewenLeHo/prefers-scan)
