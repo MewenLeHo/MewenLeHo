@@ -8,6 +8,9 @@
 HTML · CSS · JavaScript · Astro · WCAG · RGAA
 
 ## 📑 Articles
+- *Modal dialogs: understanding accessibility best practices in 2026*  
+  - 🇬🇧 [EN Version](https://a11y-guidelines.orange.com/en/articles/modal-dialogs/)  
+  - 🇫🇷 [Version FR](https://a11y-guidelines.orange.com/fr/articles/fenetres-modales/)  
 - *Media queries and user preferences*  
   - 🇬🇧 [EN Version](https://a11y-guidelines.orange.com/en/articles/user-preference-media-queries/)  
   - 🇫🇷 [Version FR](https://a11y-guidelines.orange.com/fr/articles/media-queries-preferences-utilisateurs/)  
